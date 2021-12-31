@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>display_bk.bmp</file>
+        <file>passing.jfif</file>
+        <file>passed.jpeg</file>
+    </qresource>
+</RCC>

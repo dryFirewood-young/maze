@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/display_bk.bmp</file>
+        <file>image/begin.png</file>
+        <file>image/final.png</file>
+        <file>image/passed.jfif</file>
+        <file>image/passing.png</file>
+        <file>image/wall.jpg</file>
+        <file>image/path.jpg</file>
+    </qresource>
+</RCC>
